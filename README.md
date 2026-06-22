@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ant1Ch3aT's%20Git)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sunny_Choi's%20Git)
 
 ### ✨ Skills
 <br/>
@@ -21,13 +21,14 @@
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff" alt="Spring"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=ffffff" alt="SpringBoot"/>
   </p>
 
   <summary><b> Fullstack</b></summary>
   <br/>
-  
+
   <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
     <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white" alt="SvelteKit"/>
