@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff" alt="Redis"/>
+  <img src="https://img.shields.io/badge/VALKEY-Official-blue?style=flat&logo=valkey&logoColor=white" alt="Valkey" />
 </p>
 
 <summary><b>Tools & Collaboration</b></summary>
