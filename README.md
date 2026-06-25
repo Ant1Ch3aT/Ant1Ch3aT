@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/VALKEY-Official-blue?style=flat&logo=valkey&logoColor=white" alt="Valkey" />
+  <img src="https://img.shields.io/badge/Valkey-E96130?style=flat&logo=valkey&logoColor=white" alt="Valkey"/>
 </p>
 
 <summary><b>Tools & Collaboration</b></summary>
@@ -58,5 +58,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
